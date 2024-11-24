@@ -1,0 +1,51 @@
+[2024-11-20 12:07:55,097]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - WSO2 Integration Control Plane started.
+[2024-11-20 12:07:55,105]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - Login to Integration Control Plane Dashboard : 'https://HQITEPAYLAP040:9743/login'
+[2024-11-20 12:07:59,321]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-20 12:08:00,258]  INFO {org.wso2.ei.dashboard.core.data.manager.InMemoryDataManager} - Inserting heartbeat details of node dev_node_2 in group mi_dev
+[2024-11-20 12:08:00,260]  INFO {org.wso2.ei.dashboard.micro.integrator.MiArtifactsManager} - Fetching server details from node dev_node_2 in group mi_dev
+[2024-11-20 12:08:00,268]  INFO {org.wso2.ei.dashboard.core.data.manager.InMemoryDataManager} - Adding serverInfo of node dev_node_2 in group mi_dev
+[2024-11-20 12:09:02,554]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - WSO2 Integration Control Plane started.
+[2024-11-20 12:09:02,562]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - Login to Integration Control Plane Dashboard : 'https://HQITEPAYLAP040:9743/login'
+[2024-11-20 12:09:07,369]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-20 12:09:08,552]  INFO {org.wso2.ei.dashboard.core.data.manager.InMemoryDataManager} - Inserting heartbeat details of node dev_node_2 in group mi_dev
+[2024-11-20 12:09:08,555]  INFO {org.wso2.ei.dashboard.micro.integrator.MiArtifactsManager} - Fetching server details from node dev_node_2 in group mi_dev
+[2024-11-20 12:09:08,567]  INFO {org.wso2.ei.dashboard.core.data.manager.InMemoryDataManager} - Adding serverInfo of node dev_node_2 in group mi_dev
+[2024-11-20 12:11:35,243]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - WSO2 Integration Control Plane started.
+[2024-11-20 12:11:35,253]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - Login to Integration Control Plane Dashboard : 'https://HQITEPAYLAP040:9743/login'
+[2024-11-20 12:11:37,948]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-20 12:11:39,507]  INFO {org.wso2.ei.dashboard.core.data.manager.InMemoryDataManager} - Inserting heartbeat details of node dev_node_2 in group mi_dev
+[2024-11-20 12:11:39,515]  INFO {org.wso2.ei.dashboard.micro.integrator.MiArtifactsManager} - Fetching server details from node dev_node_2 in group mi_dev
+[2024-11-20 12:11:39,542]  INFO {org.wso2.ei.dashboard.core.data.manager.InMemoryDataManager} - Adding serverInfo of node dev_node_2 in group mi_dev
+[2024-11-20 12:13:08,385]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - WSO2 Integration Control Plane started.
+[2024-11-20 12:13:08,389]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - Login to Integration Control Plane Dashboard : 'https://HQITEPAYLAP040:9743/login'
+[2024-11-20 12:13:23,425]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-20 12:13:24,565]  INFO {org.wso2.ei.dashboard.core.data.manager.InMemoryDataManager} - Inserting heartbeat details of node dev_node_2 in group mi_dev
+[2024-11-20 12:13:24,568]  INFO {org.wso2.ei.dashboard.micro.integrator.MiArtifactsManager} - Fetching server details from node dev_node_2 in group mi_dev
+[2024-11-20 12:13:24,582]  INFO {org.wso2.ei.dashboard.core.data.manager.InMemoryDataManager} - Adding serverInfo of node dev_node_2 in group mi_dev
+[2024-11-20 12:14:30,539]  INFO {org.wso2.ei.dashboard.core.rest.delegates.auth.LoginDelegate} - User admin2 logged in successfully
+[2024-11-20 12:16:22,905]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - WSO2 Integration Control Plane started.
+[2024-11-20 12:16:22,916]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - Login to Integration Control Plane Dashboard : 'https://HQITEPAYLAP040:9743/login'
+[2024-11-20 12:16:24,400]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-20 12:16:25,737]  INFO {org.wso2.ei.dashboard.core.data.manager.InMemoryDataManager} - Inserting heartbeat details of node dev_node_2 in group mi_dev
+[2024-11-20 12:16:25,741]  INFO {org.wso2.ei.dashboard.micro.integrator.MiArtifactsManager} - Fetching server details from node dev_node_2 in group mi_dev
+[2024-11-20 12:16:25,756]  INFO {org.wso2.ei.dashboard.core.data.manager.InMemoryDataManager} - Adding serverInfo of node dev_node_2 in group mi_dev
+[2024-11-20 12:17:29,889]  INFO {org.wso2.ei.dashboard.core.rest.delegates.auth.LoginDelegate} - User admin logged in successfully
+[2024-11-20 12:18:08,017]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - WSO2 Integration Control Plane started.
+[2024-11-20 12:18:08,022]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - Login to Integration Control Plane Dashboard : 'https://HQITEPAYLAP040:9743/login'
+[2024-11-20 12:18:08,805]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-20 12:18:09,168]  INFO {org.wso2.ei.dashboard.core.data.manager.InMemoryDataManager} - Inserting heartbeat details of node dev_node_2 in group mi_dev
+[2024-11-20 12:18:09,174]  INFO {org.wso2.ei.dashboard.micro.integrator.MiArtifactsManager} - Fetching server details from node dev_node_2 in group mi_dev
+[2024-11-20 12:18:09,183]  INFO {org.wso2.ei.dashboard.core.data.manager.InMemoryDataManager} - Adding serverInfo of node dev_node_2 in group mi_dev
+[2024-11-20 12:18:23,551]  INFO {org.wso2.ei.dashboard.core.rest.delegates.auth.LoginDelegate} - User admin logged in successfully
+[2024-11-20 12:18:24,180]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - Node : dev_node_2 of group : mi_dev has de-registered. Hence deleting node information
+[2024-11-20 12:18:24,181]  INFO {org.wso2.ei.dashboard.core.data.manager.InMemoryDataManager} - Heartbeat deleted of node dev_node_2 in group mi_dev
+[2024-11-20 12:18:24,183]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - Successfully deleted node where group_id : mi_dev and node_id : dev_node_2.
+[2024-11-20 12:18:24,186]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - Deleting all information in node : dev_node_2 in group: mi_dev
+[2024-11-20 12:18:24,189]  INFO {org.wso2.ei.dashboard.core.data.manager.InMemoryDataManager} - Successfully deleted server information of node dev_node_2 in group mi_dev
+[2024-11-20 12:18:27,242]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-20 12:18:27,248]  INFO {org.apache.http.impl.execchain.RetryExec} - I/O exception (java.net.SocketException) caught when processing request to {s}->https://10.1.12.19:9164: Connection reset by peer
+[2024-11-20 12:18:27,250]  INFO {org.apache.http.impl.execchain.RetryExec} - Retrying request to {s}->https://10.1.12.19:9164
+[2024-11-20 12:18:27,791]  INFO {org.wso2.ei.dashboard.core.data.manager.InMemoryDataManager} - Inserting heartbeat details of node dev_node_2 in group mi_dev
+[2024-11-20 12:18:27,793]  INFO {org.wso2.ei.dashboard.micro.integrator.MiArtifactsManager} - Fetching server details from node dev_node_2 in group mi_dev
+[2024-11-20 12:18:27,801]  INFO {org.wso2.ei.dashboard.core.data.manager.InMemoryDataManager} - Adding serverInfo of node dev_node_2 in group mi_dev
+[2024-11-20 13:48:25,740]  INFO {org.wso2.ei.dashboard.core.rest.delegates.auth.LoginDelegate} - User admin logged in successfully

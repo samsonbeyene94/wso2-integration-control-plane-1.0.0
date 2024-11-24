@@ -1,0 +1,226 @@
+[2024-11-18 21:17:16,862]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - WSO2 Integration Control Plane started.
+[2024-11-18 21:17:16,869]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - Login to Integration Control Plane Dashboard : 'https://HQITEPAYLAP040:9743/login'
+[2024-11-18 21:17:21,967]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:17:24,069]  INFO {org.wso2.ei.dashboard.core.data.manager.InMemoryDataManager} - Inserting heartbeat details of node dev_node_2 in group mi_dev
+[2024-11-18 21:17:24,071]  INFO {org.wso2.ei.dashboard.micro.integrator.MiArtifactsManager} - Fetching server details from node dev_node_2 in group mi_dev
+[2024-11-18 21:17:24,102]  INFO {org.wso2.ei.dashboard.core.data.manager.InMemoryDataManager} - Adding serverInfo of node dev_node_2 in group mi_dev
+[2024-11-18 21:20:04,772]  INFO {org.wso2.ei.dashboard.core.rest.delegates.auth.LoginDelegate} - User admin logged in successfully
+[2024-11-18 21:33:02,065]  INFO {org.wso2.ei.dashboard.core.rest.delegates.auth.LoginDelegate} - User admin logged in successfully
+[2024-11-18 21:33:21,201]  INFO {org.wso2.config.mapper.ConfigParser} - Configurations Changed in :conf\deployment.toml
+[2024-11-18 21:33:21,207]  INFO {org.wso2.config.mapper.ConfigParser} - Overriding files in configuration directory D:\WSO2\wso2-integration-control-plane-1.0.0\bin\..
+[2024-11-18 21:33:24,774]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - WSO2 Integration Control Plane started.
+[2024-11-18 21:33:24,774]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - Login to Integration Control Plane Dashboard : 'https://HQITEPAYLAP040:9743/login'
+[2024-11-18 21:33:25,253]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:33:29,814]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:33:34,501]  INFO {org.wso2.ei.dashboard.core.rest.delegates.auth.LoginDelegate} - User admin logged in successfully
+[2024-11-18 21:33:34,802]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:33:39,799]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:33:44,789]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:33:49,793]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:33:54,780]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:33:59,786]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:34:04,778]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:34:09,778]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:34:11,201]  INFO {org.wso2.ei.dashboard.core.rest.delegates.auth.LoginDelegate} - User admin logged in successfully
+[2024-11-18 21:34:14,789]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:34:19,778]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:34:24,772]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:34:29,782]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:34:34,780]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:34:39,785]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:35:09,026]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - WSO2 Integration Control Plane started.
+[2024-11-18 21:35:09,032]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - Login to Integration Control Plane Dashboard : 'https://HQITEPAYLAP040:9743/login'
+[2024-11-18 21:35:10,339]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:35:14,573]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:35:19,587]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:35:24,573]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:35:29,560]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:35:34,545]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:36:14,269]  INFO {org.wso2.config.mapper.ConfigParser} - Configurations Changed in :conf\deployment.toml
+[2024-11-18 21:36:14,274]  INFO {org.wso2.config.mapper.ConfigParser} - Overriding files in configuration directory D:\WSO2\wso2-integration-control-plane-1.0.0\bin\..
+[2024-11-18 21:36:17,352]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - WSO2 Integration Control Plane started.
+[2024-11-18 21:36:17,353]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - Login to Integration Control Plane Dashboard : 'https://HQITEPAYLAP040:9743/login'
+[2024-11-18 21:36:40,330]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:36:41,525]  INFO {org.wso2.ei.dashboard.core.data.manager.InMemoryDataManager} - Inserting heartbeat details of node dev_node_2 in group mi_dev
+[2024-11-18 21:36:41,529]  INFO {org.wso2.ei.dashboard.micro.integrator.MiArtifactsManager} - Fetching server details from node dev_node_2 in group mi_dev
+[2024-11-18 21:36:41,537]  INFO {org.wso2.ei.dashboard.core.data.manager.InMemoryDataManager} - Adding serverInfo of node dev_node_2 in group mi_dev
+[2024-11-18 21:36:54,248]  INFO {org.wso2.ei.dashboard.core.rest.delegates.auth.LoginDelegate} - User admin logged in successfully
+[2024-11-18 21:39:33,314]  INFO {org.wso2.ei.dashboard.core.rest.delegates.auth.LoginDelegate} - User admin logged in successfully
+[2024-11-18 21:49:23,125]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - WSO2 Integration Control Plane started.
+[2024-11-18 21:49:23,133]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - Login to Integration Control Plane Dashboard : 'https://HQITEPAYLAP040:9743/login'
+[2024-11-18 21:49:28,097]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:49:29,272]  INFO {org.wso2.ei.dashboard.core.data.manager.InMemoryDataManager} - Inserting heartbeat details of node dev_node_2 in group mi_dev
+[2024-11-18 21:49:29,275]  INFO {org.wso2.ei.dashboard.micro.integrator.MiArtifactsManager} - Fetching server details from node dev_node_2 in group mi_dev
+[2024-11-18 21:49:29,281]  INFO {org.wso2.ei.dashboard.core.data.manager.InMemoryDataManager} - Adding serverInfo of node dev_node_2 in group mi_dev
+[2024-11-18 21:54:38,024]  INFO {org.wso2.ei.dashboard.core.rest.delegates.auth.LoginDelegate} - User admin logged in successfully
+[2024-11-18 21:56:24,987]  INFO {org.wso2.config.mapper.ConfigParser} - Configurations Changed in :conf\deployment.toml
+[2024-11-18 21:56:24,997]  INFO {org.wso2.config.mapper.ConfigParser} - Overriding files in configuration directory D:\WSO2\wso2-integration-control-plane-1.0.0\bin\..
+[2024-11-18 21:56:28,369]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - WSO2 Integration Control Plane started.
+[2024-11-18 21:56:28,369]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - Login to Integration Control Plane Dashboard : 'https://HQITEPAYLAP040:9743/login'
+[2024-11-18 21:56:31,020]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:56:35,580]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:56:40,561]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:56:45,568]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:56:47,026]  INFO {org.wso2.ei.dashboard.core.rest.delegates.auth.LoginDelegate} - User admin logged in successfully
+[2024-11-18 21:56:50,574]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:56:55,521]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:57:00,547]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:57:00,560]  INFO {org.apache.http.impl.execchain.RetryExec} - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://10.1.12.19:9164: The target server failed to respond
+[2024-11-18 21:57:00,562]  INFO {org.apache.http.impl.execchain.RetryExec} - Retrying request to {s}->https://10.1.12.19:9164
+[2024-11-18 21:57:00,575]  INFO {org.apache.http.impl.execchain.RetryExec} - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://10.1.12.19:9164: The target server failed to respond
+[2024-11-18 21:57:00,578]  INFO {org.apache.http.impl.execchain.RetryExec} - Retrying request to {s}->https://10.1.12.19:9164
+[2024-11-18 21:57:00,587]  INFO {org.apache.http.impl.execchain.RetryExec} - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://10.1.12.19:9164: The target server failed to respond
+[2024-11-18 21:57:00,588]  INFO {org.apache.http.impl.execchain.RetryExec} - Retrying request to {s}->https://10.1.12.19:9164
+[2024-11-18 21:57:17,470]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:57:22,234]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:57:27,201]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:57:28,830]  INFO {org.wso2.ei.dashboard.core.rest.delegates.auth.LoginDelegate} - User admin logged in successfully
+[2024-11-18 21:57:32,228]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:57:37,220]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:57:42,228]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:57:47,209]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:57:52,210]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:57:57,207]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:58:09,649]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - WSO2 Integration Control Plane started.
+[2024-11-18 21:58:09,658]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - Login to Integration Control Plane Dashboard : 'https://HQITEPAYLAP040:9743/login'
+[2024-11-18 21:58:12,795]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:58:17,227]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:58:22,196]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:58:27,226]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:58:32,221]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:58:37,225]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:58:42,214]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:58:49,949]  INFO {org.wso2.config.mapper.ConfigParser} - Configurations Changed in :conf\deployment.toml
+[2024-11-18 21:58:49,956]  INFO {org.wso2.config.mapper.ConfigParser} - Overriding files in configuration directory D:\WSO2\wso2-integration-control-plane-1.0.0\bin\..
+[2024-11-18 21:58:53,391]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - WSO2 Integration Control Plane started.
+[2024-11-18 21:58:53,392]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - Login to Integration Control Plane Dashboard : 'https://HQITEPAYLAP040:9743/login'
+[2024-11-18 21:58:57,723]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 21:58:58,722]  INFO {org.wso2.ei.dashboard.core.data.manager.InMemoryDataManager} - Inserting heartbeat details of node dev_node_2 in group mi_dev
+[2024-11-18 21:58:58,725]  INFO {org.wso2.ei.dashboard.micro.integrator.MiArtifactsManager} - Fetching server details from node dev_node_2 in group mi_dev
+[2024-11-18 21:58:58,743]  INFO {org.wso2.ei.dashboard.core.data.manager.InMemoryDataManager} - Adding serverInfo of node dev_node_2 in group mi_dev
+[2024-11-18 21:59:06,942]  INFO {org.wso2.ei.dashboard.core.rest.delegates.auth.LoginDelegate} - User admin logged in successfully
+[2024-11-18 22:00:13,737]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - Node : dev_node_2 of group : mi_dev has de-registered. Hence deleting node information
+[2024-11-18 22:00:13,739]  INFO {org.wso2.ei.dashboard.core.data.manager.InMemoryDataManager} - Heartbeat deleted of node dev_node_2 in group mi_dev
+[2024-11-18 22:00:13,740]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - Successfully deleted node where group_id : mi_dev and node_id : dev_node_2.
+[2024-11-18 22:00:13,743]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - Deleting all information in node : dev_node_2 in group: mi_dev
+[2024-11-18 22:00:13,746]  INFO {org.wso2.ei.dashboard.core.data.manager.InMemoryDataManager} - Successfully deleted server information of node dev_node_2 in group mi_dev
+[2024-11-18 22:00:20,538]  INFO {org.wso2.config.mapper.ConfigParser} - Configurations Changed in :conf\deployment.toml
+[2024-11-18 22:00:20,548]  INFO {org.wso2.config.mapper.ConfigParser} - Overriding files in configuration directory D:\WSO2\wso2-integration-control-plane-1.0.0\bin\..
+[2024-11-18 22:00:24,385]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - WSO2 Integration Control Plane started.
+[2024-11-18 22:00:24,386]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - Login to Integration Control Plane Dashboard : 'https://HQITEPAYLAP040:9743/login'
+[2024-11-18 22:00:26,001]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 22:00:27,528]  INFO {org.wso2.ei.dashboard.core.data.manager.InMemoryDataManager} - Inserting heartbeat details of node dev_node_2 in group mi_dev
+[2024-11-18 22:00:27,557]  INFO {org.wso2.ei.dashboard.micro.integrator.MiArtifactsManager} - Fetching server details from node dev_node_2 in group mi_dev
+[2024-11-18 22:00:27,583]  INFO {org.wso2.ei.dashboard.core.data.manager.InMemoryDataManager} - Adding serverInfo of node dev_node_2 in group mi_dev
+[2024-11-18 22:02:08,789]  INFO {org.wso2.ei.dashboard.core.rest.delegates.auth.LoginDelegate} - User admin1 logged in successfully
+[2024-11-18 22:03:15,922]  INFO {org.wso2.config.mapper.ConfigParser} - Configurations Changed in :conf\deployment.toml
+[2024-11-18 22:03:15,929]  INFO {org.wso2.config.mapper.ConfigParser} - Overriding files in configuration directory D:\WSO2\wso2-integration-control-plane-1.0.0\bin\..
+[2024-11-18 22:03:16,057] ERROR {org.wso2.config.mapper.TomlParser} - user.name previously defined at line 29, column 1 (line 33, column 1)
+[2024-11-18 22:03:16,061] ERROR {org.wso2.config.mapper.TomlParser} - user.password previously defined at line 30, column 1 (line 34, column 1)
+[2024-11-18 22:03:16,063] ERROR {org.wso2.ei.dashboard.bootstrap.DashboardServer} - Error while reading TOML file configs org.wso2.config.mapper.ConfigParserException: Error parsing deployment configuration
+	at org.wso2.config.mapper.TomlParser.parse(TomlParser.java:144)
+	at org.wso2.config.mapper.ConfigParser.parse(ConfigParser.java:263)
+	at org.wso2.config.mapper.ConfigParser.deploy(ConfigParser.java:231)
+	at org.wso2.config.mapper.ConfigParser.deployAndStoreMetadata(ConfigParser.java:192)
+	at org.wso2.config.mapper.ConfigParser.parse(ConfigParser.java:137)
+	at org.wso2.ei.dashboard.bootstrap.DashboardServer.parseConfigJS(DashboardServer.java:355)
+	at org.wso2.ei.dashboard.bootstrap.DashboardServer.startServerWithConfigs(DashboardServer.java:132)
+	at org.wso2.ei.dashboard.bootstrap.Bootstrap.main(Bootstrap.java:40)
+
+[2024-11-18 22:03:43,930]  INFO {org.wso2.config.mapper.ConfigParser} - Configurations Changed in :conf\deployment.toml
+[2024-11-18 22:03:43,937]  INFO {org.wso2.config.mapper.ConfigParser} - Overriding files in configuration directory D:\WSO2\wso2-integration-control-plane-1.0.0\bin\..
+[2024-11-18 22:03:44,040] ERROR {org.wso2.config.mapper.TomlParser} - user.name previously defined at line 29, column 1 (line 33, column 1)
+[2024-11-18 22:03:44,041] ERROR {org.wso2.config.mapper.TomlParser} - user.password previously defined at line 30, column 1 (line 34, column 1)
+[2024-11-18 22:03:44,042] ERROR {org.wso2.ei.dashboard.bootstrap.DashboardServer} - Error while reading TOML file configs org.wso2.config.mapper.ConfigParserException: Error parsing deployment configuration
+	at org.wso2.config.mapper.TomlParser.parse(TomlParser.java:144)
+	at org.wso2.config.mapper.ConfigParser.parse(ConfigParser.java:263)
+	at org.wso2.config.mapper.ConfigParser.deploy(ConfigParser.java:231)
+	at org.wso2.config.mapper.ConfigParser.deployAndStoreMetadata(ConfigParser.java:192)
+	at org.wso2.config.mapper.ConfigParser.parse(ConfigParser.java:137)
+	at org.wso2.ei.dashboard.bootstrap.DashboardServer.parseConfigJS(DashboardServer.java:355)
+	at org.wso2.ei.dashboard.bootstrap.DashboardServer.startServerWithConfigs(DashboardServer.java:132)
+	at org.wso2.ei.dashboard.bootstrap.Bootstrap.main(Bootstrap.java:40)
+
+[2024-11-18 22:04:36,172] ERROR {org.wso2.ei.dashboard.bootstrap.DashboardServer} - Error while starting up the server java.lang.IllegalStateException: D:\WSO2\wso2-integration-control-plane-1.0.0\bin\..\null is not a valid keystore
+	at org.eclipse.jetty.util.security.CertificateUtils.getKeyStore(CertificateUtils.java:50)
+	at org.eclipse.jetty.util.ssl.SslContextFactory.loadKeyStore(SslContextFactory.java:1203)
+	at org.eclipse.jetty.util.ssl.SslContextFactory.load(SslContextFactory.java:322)
+	at org.eclipse.jetty.util.ssl.SslContextFactory.doStart(SslContextFactory.java:244)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:73)
+	at org.eclipse.jetty.util.component.ContainerLifeCycle.start(ContainerLifeCycle.java:169)
+	at org.eclipse.jetty.util.component.ContainerLifeCycle.doStart(ContainerLifeCycle.java:117)
+	at org.eclipse.jetty.server.SslConnectionFactory.doStart(SslConnectionFactory.java:97)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:73)
+	at org.eclipse.jetty.util.component.ContainerLifeCycle.start(ContainerLifeCycle.java:169)
+	at org.eclipse.jetty.util.component.ContainerLifeCycle.doStart(ContainerLifeCycle.java:117)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:73)
+	at org.eclipse.jetty.util.component.ContainerLifeCycle.start(ContainerLifeCycle.java:169)
+	at org.eclipse.jetty.util.component.ContainerLifeCycle.doStart(ContainerLifeCycle.java:117)
+	at org.eclipse.jetty.server.AbstractConnector.doStart(AbstractConnector.java:323)
+	at org.eclipse.jetty.server.AbstractNetworkConnector.doStart(AbstractNetworkConnector.java:81)
+	at org.eclipse.jetty.server.ServerConnector.doStart(ServerConnector.java:234)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:73)
+	at org.eclipse.jetty.server.Server.doStart(Server.java:401)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:73)
+	at org.wso2.ei.dashboard.bootstrap.DashboardServer.startServerWithConfigs(DashboardServer.java:155)
+	at org.wso2.ei.dashboard.bootstrap.Bootstrap.main(Bootstrap.java:40)
+
+[2024-11-18 22:04:36,178]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - Stopping the server
+[2024-11-18 22:05:28,323]  INFO {org.wso2.config.mapper.ConfigParser} - Configurations Changed in :conf\deployment.toml
+[2024-11-18 22:05:28,331]  INFO {org.wso2.config.mapper.ConfigParser} - Overriding files in configuration directory D:\WSO2\wso2-integration-control-plane-1.0.0\bin\..
+[2024-11-18 22:05:28,431] ERROR {org.wso2.config.mapper.TomlParser} - user.name previously defined at line 29, column 1 (line 32, column 1)
+[2024-11-18 22:05:28,431] ERROR {org.wso2.config.mapper.TomlParser} - user.password previously defined at line 30, column 1 (line 33, column 1)
+[2024-11-18 22:05:28,432] ERROR {org.wso2.ei.dashboard.bootstrap.DashboardServer} - Error while reading TOML file configs org.wso2.config.mapper.ConfigParserException: Error parsing deployment configuration
+	at org.wso2.config.mapper.TomlParser.parse(TomlParser.java:144)
+	at org.wso2.config.mapper.ConfigParser.parse(ConfigParser.java:263)
+	at org.wso2.config.mapper.ConfigParser.deploy(ConfigParser.java:231)
+	at org.wso2.config.mapper.ConfigParser.deployAndStoreMetadata(ConfigParser.java:192)
+	at org.wso2.config.mapper.ConfigParser.parse(ConfigParser.java:137)
+	at org.wso2.ei.dashboard.bootstrap.DashboardServer.parseConfigJS(DashboardServer.java:355)
+	at org.wso2.ei.dashboard.bootstrap.DashboardServer.startServerWithConfigs(DashboardServer.java:132)
+	at org.wso2.ei.dashboard.bootstrap.Bootstrap.main(Bootstrap.java:40)
+
+[2024-11-18 22:05:59,401] ERROR {org.wso2.ei.dashboard.bootstrap.DashboardServer} - Error while starting up the server java.lang.IllegalStateException: D:\WSO2\wso2-integration-control-plane-1.0.0\bin\..\null is not a valid keystore
+	at org.eclipse.jetty.util.security.CertificateUtils.getKeyStore(CertificateUtils.java:50)
+	at org.eclipse.jetty.util.ssl.SslContextFactory.loadKeyStore(SslContextFactory.java:1203)
+	at org.eclipse.jetty.util.ssl.SslContextFactory.load(SslContextFactory.java:322)
+	at org.eclipse.jetty.util.ssl.SslContextFactory.doStart(SslContextFactory.java:244)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:73)
+	at org.eclipse.jetty.util.component.ContainerLifeCycle.start(ContainerLifeCycle.java:169)
+	at org.eclipse.jetty.util.component.ContainerLifeCycle.doStart(ContainerLifeCycle.java:117)
+	at org.eclipse.jetty.server.SslConnectionFactory.doStart(SslConnectionFactory.java:97)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:73)
+	at org.eclipse.jetty.util.component.ContainerLifeCycle.start(ContainerLifeCycle.java:169)
+	at org.eclipse.jetty.util.component.ContainerLifeCycle.doStart(ContainerLifeCycle.java:117)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:73)
+	at org.eclipse.jetty.util.component.ContainerLifeCycle.start(ContainerLifeCycle.java:169)
+	at org.eclipse.jetty.util.component.ContainerLifeCycle.doStart(ContainerLifeCycle.java:117)
+	at org.eclipse.jetty.server.AbstractConnector.doStart(AbstractConnector.java:323)
+	at org.eclipse.jetty.server.AbstractNetworkConnector.doStart(AbstractNetworkConnector.java:81)
+	at org.eclipse.jetty.server.ServerConnector.doStart(ServerConnector.java:234)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:73)
+	at org.eclipse.jetty.server.Server.doStart(Server.java:401)
+	at org.eclipse.jetty.util.component.AbstractLifeCycle.start(AbstractLifeCycle.java:73)
+	at org.wso2.ei.dashboard.bootstrap.DashboardServer.startServerWithConfigs(DashboardServer.java:155)
+	at org.wso2.ei.dashboard.bootstrap.Bootstrap.main(Bootstrap.java:40)
+
+[2024-11-18 22:05:59,406]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - Stopping the server
+[2024-11-18 22:06:21,166]  INFO {org.wso2.config.mapper.ConfigParser} - Configurations Changed in :conf\deployment.toml
+[2024-11-18 22:06:21,173]  INFO {org.wso2.config.mapper.ConfigParser} - Overriding files in configuration directory D:\WSO2\wso2-integration-control-plane-1.0.0\bin\..
+[2024-11-18 22:06:24,443]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - WSO2 Integration Control Plane started.
+[2024-11-18 22:06:24,444]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - Login to Integration Control Plane Dashboard : 'https://HQITEPAYLAP040:9743/login'
+[2024-11-18 22:06:28,677]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 22:06:30,127]  INFO {org.wso2.ei.dashboard.core.data.manager.InMemoryDataManager} - Inserting heartbeat details of node dev_node_2 in group mi_dev
+[2024-11-18 22:06:30,128]  INFO {org.wso2.ei.dashboard.micro.integrator.MiArtifactsManager} - Fetching server details from node dev_node_2 in group mi_dev
+[2024-11-18 22:06:30,136]  INFO {org.wso2.ei.dashboard.core.data.manager.InMemoryDataManager} - Adding serverInfo of node dev_node_2 in group mi_dev
+[2024-11-18 22:07:12,922]  INFO {org.wso2.config.mapper.ConfigParser} - Configurations Changed in :conf\deployment.toml
+[2024-11-18 22:07:12,931]  INFO {org.wso2.config.mapper.ConfigParser} - Overriding files in configuration directory D:\WSO2\wso2-integration-control-plane-1.0.0\bin\..
+[2024-11-18 22:07:16,582]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - WSO2 Integration Control Plane started.
+[2024-11-18 22:07:16,583]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - Login to Integration Control Plane Dashboard : 'https://HQITEPAYLAP040:9743/login'
+[2024-11-18 22:07:18,665]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-18 22:07:19,429]  INFO {org.wso2.ei.dashboard.core.data.manager.InMemoryDataManager} - Inserting heartbeat details of node dev_node_2 in group mi_dev
+[2024-11-18 22:07:19,433]  INFO {org.wso2.ei.dashboard.micro.integrator.MiArtifactsManager} - Fetching server details from node dev_node_2 in group mi_dev
+[2024-11-18 22:07:19,448]  INFO {org.wso2.ei.dashboard.core.data.manager.InMemoryDataManager} - Adding serverInfo of node dev_node_2 in group mi_dev
+[2024-11-18 22:07:35,262]  INFO {org.wso2.ei.dashboard.core.rest.delegates.auth.LoginDelegate} - User admin2 logged in successfully
+[2024-11-18 22:07:53,736]  INFO {org.wso2.ei.dashboard.core.rest.delegates.auth.LoginDelegate} - User admin logged in successfully
+[2024-11-18 22:08:10,158]  INFO {org.wso2.ei.dashboard.core.rest.delegates.auth.LoginDelegate} - User admin2 logged in successfully

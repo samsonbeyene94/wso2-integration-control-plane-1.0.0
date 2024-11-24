@@ -1,0 +1,9 @@
+[2024-11-19 21:08:48,218]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - WSO2 Integration Control Plane started.
+[2024-11-19 21:08:48,319]  INFO {org.wso2.ei.dashboard.bootstrap.DashboardServer} - Login to Integration Control Plane Dashboard : 'https://HQITEPAYLAP040:9743/login'
+[2024-11-19 21:09:49,324]  INFO {org.wso2.ei.dashboard.core.rest.delegates.heartbeat.HeartBeatDelegate} - New node dev_node_2 in group : mi_dev is registered. Inserting heartbeat information
+[2024-11-19 21:09:52,763]  INFO {org.wso2.ei.dashboard.core.data.manager.InMemoryDataManager} - Inserting heartbeat details of node dev_node_2 in group mi_dev
+[2024-11-19 21:09:52,765]  INFO {org.wso2.ei.dashboard.micro.integrator.MiArtifactsManager} - Fetching server details from node dev_node_2 in group mi_dev
+[2024-11-19 21:09:52,805]  INFO {org.wso2.ei.dashboard.core.data.manager.InMemoryDataManager} - Adding serverInfo of node dev_node_2 in group mi_dev
+[2024-11-19 21:11:11,416]  INFO {org.wso2.ei.dashboard.core.rest.delegates.auth.LoginDelegate} - User admin logged in successfully
+[2024-11-19 21:11:52,102]  INFO {org.wso2.ei.dashboard.core.rest.delegates.auth.LoginDelegate} - User admin2 logged in successfully
+[2024-11-19 21:12:04,719]  INFO {org.wso2.ei.dashboard.core.rest.delegates.auth.LoginDelegate} - User admin logged in successfully
